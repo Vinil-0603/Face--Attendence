@@ -32,6 +32,6 @@ Run the application:
  python main.py
 
 Usage
-Follow the on-screen instructions to perform<img width="1392" alt="Screenshot 2023-09-03 at 4 53 41 PM" src="https://github.com/Vinil-0603/Face--Attendence/assets/98514728/bcfaff68-d475-4b04-9e7b-bb8f694c8b9e">
+Follow the on-screen instructions to perform<img width="1392" alt="Screenshot 2023-09-12 at 18 30 57 PM" src="https://github.com/Vinil-0603/Face--Attendence/blob/18eff4235787233a27eac2d2f0d1477668d4f76f/Screenshot%202023-09-12%20at%206.30.57%20PM.png">
 
 For additional information and support, please contact me at saivinilreddy@gmail.com.
